@@ -16,6 +16,7 @@ https://drive.google.com/file/d/10nQ2XnUQa16ZZD0HmqGXaelQ4pWT_C3Z/view?usp=shari
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ## Installation
 
