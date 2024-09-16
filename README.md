@@ -26,11 +26,16 @@ https://drive.google.com/file/d/10nQ2XnUQa16ZZD0HmqGXaelQ4pWT_C3Z/view?usp=shari
 4. Create a PostgreSQL database named `employee_tracker`.
 5. Update the `.env` file with your PostgreSQL credentials:
 DB_USER=your_username
+
 DB_HOST=localhost
+
 DB_NAME=employee_tracker
+
 DB_PASSWORD=your_password
+
 DB_PORT=5432
-6. Run the SQL scripts in the `db` folder to set up your database schema.
+
+7. Run the SQL scripts in the `db` folder to set up your database schema.
 
 ## Usage
 
